@@ -2,14 +2,14 @@ fx_version 'adamant'
 game 'gta5'
 
 
-description 'ESX_VisualGarage'
+description 'fsc_pimpgarage'
 
 version '1.0.0'
 
 client_scripts {
     "config.lua",
 	'en.lua',
-    "client/main.lua"
+    "client.lua"
 }
 
 server_scripts {
